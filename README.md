@@ -1,0 +1,30 @@
+# 🎓 Student Report System
+
+A Java-based console application developed by **Chamod Lakshitha** to manage student report cards.  
+This system allows users to add students, calculate grades, sort by average, search by roll number, and export report data.
+
+---
+
+## ✨ Features
+
+- 🔹 Add student details: name, roll number, and marks for 5 subjects
+- 🔹 Auto-calculate average marks, assign grade, and performance level
+- 🔹 Sort students by average using Bubble Sort
+- 🔹 Search students by roll number using:
+    - Linear Search
+    - Binary Search (after sorting by roll number)
+- 🔹 Export student report to `student_report.txt` file
+
+---
+
+## 🛠 Technologies Used
+
+- Java (Console Application)
+- IntelliJ IDEA (IDE)
+- Git & GitHub
+- Windows OS (Developed on)
+
+---
+
+## 📂 Project Structure
+
