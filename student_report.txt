@@ -1,0 +1,29 @@
+===== STUDENT REPORT CARD =====
+Student 1
+Name       : liyanage
+Roll Number: 66
+Average    : 66.0
+Grade      : D
+Performance: Below Average
+-----------------------------------
+Student 2
+Name       : chamod
+Roll Number: 99
+Average    : 70.4
+Grade      : C
+Performance: Average
+-----------------------------------
+Student 3
+Name       : piyumi
+Roll Number: 99
+Average    : 49.6
+Grade      : F
+Performance: Poor
+-----------------------------------
+Student 4
+Name       : ishara
+Roll Number: 30173
+Average    : 99.0
+Grade      : A
+Performance: Excellent
+-----------------------------------
