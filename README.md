@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-Console%20App-blue?style=flat-square&logo=java)
+
+
 # 🎓 Student Report System
 
 A Java-based console application developed by **Chamod Lakshitha** to manage student report cards.  
