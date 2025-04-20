@@ -29,5 +29,57 @@ This system allows users to add students, calculate grades, sort by average, sea
 
 ---
 
+
+
+## 📊 UML Class Diagram (Text Representation)
+
+<details>
+  <summary>Click to expand UML diagram (Text)</summary>
+
+```
++-------------------------+ 
+| Student                 | 
++-------------------------+ 
+| - studentName           | 
+| - rollNumber            | 
+| - marks[]               | 
+| - average               | 
+| - grade                 | 
+| - performance           | 
++-------------------------+ 
+| + getStudentName()      | 
+| + getRollNumber()       | 
+| + getAverage()          | 
+| + getGrade()            | 
+| + getPerformance()      | 
+| + setMarks()            | 
+| - calculateAverage()    | 
+| - assignGrade()         | 
+| - determinePerformance()| 
++-------------------------+
+
++------------------------+ 
+| StudentUtils           | 
++------------------------+ 
+| + bubbleSortByAverage()| 
+| + sortByRollNumber()   | 
+| + linearSearch()       | 
+| + binarySearch()       | 
++------------------------+
+
++------------------------+ 
+| Main                   | 
++------------------------+ 
+| + main()               | 
+| + addStudents()        | 
+| + displayAllStudents() | 
+| + exportToTextFile()   | 
+| + getValidInput()      | 
++------------------------+
+```
+</details>
+
+
+---
 ## 📂 Project Structure
 
